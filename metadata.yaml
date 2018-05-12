@@ -1,10 +1,16 @@
 _repo: Juhana-Hus_49623
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Almberg, Emil
     gutenberg_agent_id: '45448'
     url: http://www.gutenberg.org/2009/agents/45448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49623#Juhana-Hus
 gutenberg_issued: '2015-08-05'
 gutenberg_type: Text
 identifiers:
